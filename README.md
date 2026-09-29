@@ -1,7 +1,7 @@
 # ChaoxingSignFaker
 
-[![wakatime](https://wakatime.com/badge/github/ChenLun-dev/ChaoxingSignFaker.svg)](https://wakatime.com/badge/github/ChenLun-dev/ChaoxingSignFaker)
-[![](https://tokei.rs/b1/github/ChenLun-dev/ChaoxingSignFaker)](https://github.com/XAMPPRocky/tokei)
+[![wakatime](https://wakatime.com/badge/github/aquamarine5/ChaoxingSignFaker.svg)](https://wakatime.com/badge/github/ChenLun-dev/ChaoxingSignFaker)
+[![](https://tokei.rs/b1/github/aquamarine5/ChaoxingSignFaker)](https://github.com/XAMPPRocky/tokei)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FChenLun-dev%2FChaoxingSignFaker.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FChenLun-dev%2FChaoxingSignFaker?ref=badge_shield)
 ![GitHub Release Date](https://img.shields.io/github/release-date/ChenLun-dev/ChaoxingSignFaker)
 ![GitHub top language](https://img.shields.io/github/languages/top/ChenLun-dev/ChaoxingSignFaker)
@@ -11,9 +11,9 @@
 <p align="center">
  <a href="https://www.star-history.com/ChenLun-dev/chaoxingsignfaker">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=ChenLun-dev/ChaoxingSignFaker&type=rank&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?repo=ChenLun-dev/ChaoxingSignFaker&type=rank" />
-   <img alt="Star History Rank" src="https://api.star-history.com/badge?repo=ChenLun-dev/ChaoxingSignFaker&type=rank" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=aquamarine5/ChaoxingSignFaker&type=rank&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?repo=aquamarine5/ChaoxingSignFaker&type=rank" />
+   <img alt="Star History Rank" src="https://api.star-history.com/badge?repo=aquamarine5/ChaoxingSignFaker&type=rank" />
   </picture>
  </a>
 </p>
