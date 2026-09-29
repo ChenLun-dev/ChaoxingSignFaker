@@ -1,12 +1,12 @@
 # ChaoxingSignFaker
 
-[![wakatime](https://wakatime.com/badge/github/aquamarine5/ChaoxingSignFaker.svg)](https://wakatime.com/badge/github/ChenLun-dev/ChaoxingSignFaker)
+[![wakatime](https://wakatime.com/badge/github/aquamarine5/ChaoxingSignFaker.svg)](https://wakatime.com/badge/github/aquamarine5/ChaoxingSignFaker)
 [![](https://tokei.rs/b1/github/aquamarine5/ChaoxingSignFaker)](https://github.com/XAMPPRocky/tokei)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FChenLun-dev%2FChaoxingSignFaker.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FChenLun-dev%2FChaoxingSignFaker?ref=badge_shield)
-![GitHub Release Date](https://img.shields.io/github/release-date/ChenLun-dev/ChaoxingSignFaker)
-![GitHub top language](https://img.shields.io/github/languages/top/ChenLun-dev/ChaoxingSignFaker)
-![GitHub License](https://img.shields.io/github/license/ChenLun-dev/ChaoxingSignFaker)
-[![Download count](https://img.shields.io/github/downloads/ChenLun-dev/ChaoxingSignFaker/total)]()
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Faquamarine5%2FChaoxingSignFaker.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Faquamarine5%2FChaoxingSignFaker?ref=badge_shield)
+![GitHub Release Date](https://img.shields.io/github/release-date/aquamarine5/ChaoxingSignFaker)
+![GitHub top language](https://img.shields.io/github/languages/top/aquamarine5/ChaoxingSignFaker)
+![GitHub License](https://img.shields.io/github/license/aquamarine5/ChaoxingSignFaker)
+[![Download count](https://img.shields.io/github/downloads/aquamarine5/ChaoxingSignFaker/total)]()
 
 <p align="center">
  <a href="https://www.star-history.com/ChenLun-dev/chaoxingsignfaker">
